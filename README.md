@@ -4,5 +4,8 @@ The YOLOv7 is making big waves in the computer vision and also the machine learn
 
 VIDEO DESCRIPTION BELOW:
 
-https://user-images.githubusercontent.com/97457075/193409937-fe451c52-2c8c-4fa3-8cd3-e0e96b8d4821.mp4
+
+
+
+https://user-images.githubusercontent.com/97457075/193410279-2410be2d-16d7-455c-a909-982b6db7b2c7.mp4
 
